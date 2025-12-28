@@ -108,7 +108,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-Victor Anizau Barros - [Seu Email ou LinkedIn]
+Victor Anizau Barros - victorhugo.anizau@outlook.com | https://www.linkedin.com/in/victor-hugo-anizau-barros-65a775322/
 
 Link do Projeto: [https://github.com/VictorAnizauBarros/AppTelefoniaSMS](https://github.com/VictorAnizauBarros/AppTelefoniaSMS)
 
